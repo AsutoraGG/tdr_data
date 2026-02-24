@@ -1,0 +1,32 @@
+[
+    {
+        "parkType": "TDS",
+        "facilityCode": "235",
+        "$comment": "シンドバッド"
+    },
+    {
+        "parkType": "TDS",
+        "facilityCode": "230",
+        "$comment": "ヴェネツィアン・ゴンドラ"
+    },
+    {
+        "parkType": "TDL",
+        "facilityCode": "153",
+        "$comment": "ジャングルクルーズ：ワイルドライフ・エクスペディション"
+    },
+    {
+        "parkType": "TDL",
+        "facilityCode": "154",
+        "$comment": "ウエスタンリバー鉄道"
+    },
+    {
+        "parkType": "TDL",
+        "facilityCode": "157",
+        "$comment": "シューティングギャラリー"
+    },
+    {
+        "parkType": "TDL",
+        "facilityCode": "172",
+        "$comment": "スモールワールド"
+    }
+]
